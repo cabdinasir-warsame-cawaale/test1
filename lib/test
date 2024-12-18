@@ -1,0 +1,8 @@
+void main(){
+  runApp(
+    materialApp(
+      home: scaffold(appBar: appBar (backgroundcolor: colors.red,),)
+      body 
+    )
+  )
+}
